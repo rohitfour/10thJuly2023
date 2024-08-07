@@ -1,0 +1,12 @@
+I have around 3.2 yrs of experience in Manual Testing, Web Service Testing, Database Testing
+and form last 6 month's I am designing Test Script in Selenium as an Automation Tester In my carrier
+,I have worked in different domain like different Banking Domain and Telecom Domain.
+Selenium web driver
+TestNg
+Selenium with java
+Cucumber with BDD
+API Teting
+Postman Tool
+Rest Assured
+I have Complete Idea about STLC and SDLC
+In Manual Testing, I have perform , Functional Testing , Non Functional , Retesting , Regression Testing ,UAT , Smoke Testing.

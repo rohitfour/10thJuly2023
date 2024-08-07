@@ -1,0 +1,18 @@
+
+
+
+
+<tagname attributename=attributevalue attributename=attributevalue> innertext </tagname>
+
+<input type="text" placeholder="First Name" class="form-control ng-pristine ng-invalid ng-invalid-required ng-touched" ng-model="FirstName" required="">  
+
+
+<label class="col-md-3 col-xs-3 col-sm-3 control-label">Full Name* </label> 
+
+
+
+
+
+
+
+<input type="text" placeholder="First Name" class="form-control ng-pristine   ng-model="FirstName" >  
